@@ -13,14 +13,19 @@
  - Get List of Attendance
  - Get List of Schedule
  - Get List of Salary Information
+ - Get List of Member Managements (Admin)
  - Update Members/Profile
  - Update Attendance
  - Update Schedule
  - Update/Compute Salary
+ - Update Member Information and Payroll (Admin)
  - Delete Members/Profile
  - Delete Attendance Records
  - Delete Schedule List
  - Delete Salary Information
+ - Delete Member Records (Admin)
+ - Excel to Json Upload
+ - Biometrics Records via VB
  - Print Schedule
  - Print Salary Information
  
