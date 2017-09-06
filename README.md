@@ -50,14 +50,14 @@ Install the following tools and Required Frameworks of the System
 
 ##### Language
 - AngularJS 
-	version 1.4.8
-	https://code.angularjs.org/1.4.8/
-	**Note: UI and JavaScript Framework best for starter. 
-	Download the zip files
+   version 1.4.8
+   https://code.angularjs.org/1.4.8/
+   **Note: UI and JavaScript Framework best for starter. 
+   Download the zip files
 - Bootstrap CSS 4
-	version 4.0.0
-	https://getbootstrap.com/
-	**Note: Click the link and go to documentation for further study and reference
+   version 4.0.0
+   https://getbootstrap.com/
+   **Note: Click the link and go to documentation for further study and reference
 - SB-Admin Bootstrap CSS 4 Template
-	https://startbootstrap.com/template-overviews/sb-admin/
-	**Note: User Interface Template
+   https://startbootstrap.com/template-overviews/sb-admin/
+   **Note: User Interface Template
